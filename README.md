@@ -23,7 +23,7 @@ npm update
 ```bash
 apt update && apt upgrade
 apt install git -y
-git clone https://github.com/LitRHap/wabot
+git clone https://github.com/Bro81881/wabot
 bash install.sh
 ```
 ---------
@@ -36,7 +36,7 @@ bash install.sh
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/LitRHap/wabot
+git clone https://github.com/Bro81881/wabot
 cd wabot-aq
 npm install
 npm update
